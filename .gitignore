@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/*
+npm-debug.log*
+docker-compose.yml
+*.swp
+nohup.out
+package-lock.json
+
+../../../repositories/platform-services/dashboard_back/.idea/
+.vscode/
+.idea/
